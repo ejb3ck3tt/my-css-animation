@@ -7,7 +7,7 @@
 }
 
 .parallax {
-  background: url('images/image2.jpg');
+  background: url('https://ethelsampleimages.s3.ap-southeast-2.amazonaws.com/artsy1.jpg');
   background-size: cover;
   background-attachment: fixed;
   height: 500px;
