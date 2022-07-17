@@ -22,7 +22,7 @@ h2 {
 }
 
 div:nth-child(1) {
-  background-image: url(images/image1.jpg);
+  background-image: url("https://ethelsampleimages.s3.ap-southeast-2.amazonaws.com/artsy1.jpg");
   background-size: cover;
 }
 
@@ -32,7 +32,7 @@ div:nth-child(2) {
 
 div:nth-child(3) {
   height: 400px;
-  background-image: url(images/image3.jpg);
+  background-image: url("https://ethelsampleimages.s3.ap-southeast-2.amazonaws.com/artsy2.jpg");
   background-attachment: fixed;
   background-size: cover;
 }
