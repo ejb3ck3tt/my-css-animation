@@ -2,9 +2,9 @@
   max-width: 960px;
   margin: 0 auto;
   background: #f9f9f9;
-  font-size: 24px;
   padding: 25px;
 }
+
 
 .parallax {
   background: url('https://ethelsampleimages.s3.ap-southeast-2.amazonaws.com/artsy1.jpg');
