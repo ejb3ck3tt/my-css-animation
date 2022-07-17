@@ -1,3 +1,21 @@
 #case2 {
   display: none;
 }
+
+#case1,
+#case2 {
+  margin: auto;
+  margin-top: 2rem;
+  max-width: 1020px;
+  height: 50vh;
+  text-align: center;
+  padding: 1rem 5rem;
+}
+
+#case1 {
+  background-color: aquamarine;
+}
+
+#case2 {
+  background-color: bisque;
+}
